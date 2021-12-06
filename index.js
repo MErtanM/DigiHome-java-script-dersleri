@@ -29,6 +29,12 @@ let $name
 
 let 1name;//* kullanilamamz verilerinizi sadece makinenin anlamasi degil sonraki kisiler de anlayabilmeli
 
+
+
+
+
+
+
 let default;
 
 let a= 3;
@@ -48,6 +54,18 @@ console.log(a, b)
     3.boolean;
     4.undefined
     5.null
+*/
+
+/*
+
+/* özet   
+var fName = "Afra"
+fName ="abcd"
+letfName2 ="Muhlise"
+fName2 ="Kemal"
+const fNmae3 ="Ebizer"
+const fNmae3 ="Ahmet"
+//fNmae3 = "Ebuzer" // fName3 tanimli olduğu için değiştirilemiyor.
 */
 
 
