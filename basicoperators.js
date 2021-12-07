@@ -109,3 +109,8 @@ console.log(sentence)
 
 let betterSentence = `He is ${frstName} ${scnName}, and He is founder of ${work}.`
 console.log(betterSentence)
+
+console.log(" I want to write this \n\
+on new line")
+console.log(" I want to write this \n\
+on new line")
